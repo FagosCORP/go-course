@@ -8,4 +8,8 @@ func main(){
 	s3 := slice[2:3]
 	// Do inicio até o indice 3 mas sem incluir
 	s3 := slice[:3]
+
+	// tamanho e um ponteiro para o elemento de um array
+	// a partir de uma estrutura continua.
+	
 }
